@@ -1,0 +1,12 @@
+name: chickweight
+title:
+username:
+account: elinares
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 400897
+bundleId: 1537557
+url: https://elinares.shinyapps.io/chickweight/
+when: 1534401030.02265
+asMultiple: FALSE
+asStatic: FALSE
