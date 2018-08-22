@@ -19,6 +19,7 @@ The ChickWeight dataset includes the weight of 50 chicks, each one fed with 1 of
 
 Given a new Time in days and a diet, the model will predict the avg. weight of the brood after the number of days specified. 
 
+The model is being presented to the public through a Shiny application and the underlying files can be found in this github repository <http://github.com/silversky54/ChickWeight-W4project>
 
 
 ## Notes and Considerations {.smaller}
